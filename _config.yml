@@ -3,4 +3,4 @@ description: "Site pessoal"
 url: "https://srgdesouza.github.io"
 baseurl: ""
 
-theme: jekyll-theme-architect
+theme: jekyll-theme-cayman
