@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Meu primeiro post"
 date: 2025-09-24 10:00:00 -0300
 categories: [NLP, Attention]
